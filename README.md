@@ -1,8 +1,8 @@
-# PersonalPassionProject - Digitale Ukulele
+# PersonalPassionProject - Smart Ukulele
 Personal Passion Project voor mijn expert module development.
 
 ## Het concept
-Dat ik persoonlijk 100% geïnteresseerd ben en blijf, leek mij het belangrijkste voor mijn persoonlijk project. Daarom wou ik graag iets met geluid of muziek doen voor deze opdracht. Tijdens de zomermaanden geef ik muziekkampjes aan kinderen. De ervaring die ik met hen heb opgedaan bracht mij op het idee om een digitale ukulele te maken. De kinderen vonden het spelen op de ukulele's heel tof, maar klaagden vaak over pijn aan hun vingers. De allerkleinsten hadden het dan weer moeilijk met de techniek die nodig is om een zuiver geluid uit het instrument te krijgen.
+Dat ik persoonlijk 100% geïnteresseerd ben en blijf, leek mij het belangrijkste voor mijn persoonlijk project. Daarom wou ik graag iets met geluid of muziek doen voor deze opdracht. Tijdens de zomermaanden geef ik muziekkampjes aan kinderen. De ervaring die ik met hen heb opgedaan bracht mij op het idee om een 'smart' ukulele te maken. De kinderen vonden het spelen op de ukulele's heel tof, maar klaagden vaak over pijn aan hun vingers. De allerkleinsten hadden het dan weer moeilijk met de techniek die nodig is om een zuiver geluid uit het instrument te krijgen.
 
 ## De klant
 De organisatie (Muziek is de Max!) waarmee ik deze kampjes origaniseer zie ik als eindklant. De organisatie kan de ukelele gebruiken tijdens hun workshops.
